@@ -1,3 +1,22 @@
+priject name:Expense-Desk
+This is an Expense Tracker web application designed to help you record and manage your daily expenses efficiently.
+Features
+Add Expenses: Easily add your daily expenses with relevant details.
+View Expenses: Track and view all your recorded expenses in one place.
+User-Friendly Interface: Built with a modern and clean design for better usability.
+Technologies Used
+Framework: Next.js
+Styling: Tailwind CSS
+Database: Prisma
+Language: TypeScript
+How to Run the Project
+To run this project locally, follow these steps:
+1 Install dependencies:npm install
+2 Run the development server:npm run dev
+3 Open in Browser:
+Open http://localhost:3000 to view the result in your browser.
+Contact
+Created by Tejaswini Chaudhari - feel free to reach out!
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
